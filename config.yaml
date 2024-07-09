@@ -1,0 +1,5 @@
+chunk_size: 2048
+file_parts_directory: directory
+max_memory_usage: 1073741824
+num_workers: 4
+process_pool_size: 2
